@@ -2,7 +2,11 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://Vihang8101.github.io",
+=======
+    "homepage": "https://Vihang8101.github.io",
+>>>>>>> 02295deffe267e33cc883135adb1c30497687632
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
@@ -24,7 +28,11 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+<<<<<<< HEAD
     "predeploy": "npm run build",
+=======
+     "predeploy": "npm run build",
+>>>>>>> 02295deffe267e33cc883135adb1c30497687632
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
